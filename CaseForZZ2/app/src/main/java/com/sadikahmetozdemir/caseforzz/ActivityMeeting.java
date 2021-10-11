@@ -10,5 +10,7 @@ public class ActivityMeeting extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_meeting);
+        int sd=123;
+        
     }
 }
